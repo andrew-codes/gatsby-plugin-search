@@ -11,13 +11,7 @@
     "type": "git",
     "url": "git+https://github.com/andrew-codes/gatsby-plugin-search.git"
   },
-  "keywords": [
-    "gatsby",
-    "gatsby-plugin",
-    "lunr",
-    "search",
-    "elastic lunr"
-  ],
+  "keywords": ["gatsby", "gatsby-plugin", "lunr", "search", "elastic lunr"],
   "author": "Andrew Smith <andrew@andrew.codes>",
   "license": "MIT",
   "bugs": {
